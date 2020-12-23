@@ -1,0 +1,12 @@
+﻿  xor.c
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(18): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(38): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(39): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(40): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(40): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(53): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_and\perceptron_and\xor.c(46): warning C4101: 'X' :참조되지 않은 지역 변수입니다.
+  Perceptron_AND.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\Perceptron_AND\Debug\Perceptron_AND.exe

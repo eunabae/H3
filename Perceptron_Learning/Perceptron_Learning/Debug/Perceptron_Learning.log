@@ -1,0 +1,45 @@
+﻿  learning1.c
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(25): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(61): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(66): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(83): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(88): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(93): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(105): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(110): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(115): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(120): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(133): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(139): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(144): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(149): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(131): warning C4101: 'xout' :참조되지 않은 지역 변수입니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(166): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(168): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(171): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(179): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(181): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(184): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(191): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(193): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(196): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(203): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(204): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(207): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(210): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(160): warning C4101: 'xout' :참조되지 않은 지역 변수입니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(225): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(228): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(231): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(254): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(276): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(279): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(299): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(300): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(32): warning C4716: 'add': 값을 반환해야 합니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(44): warning C4716: 'or_add': 값을 반환해야 합니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\perceptron_learning\perceptron_learning\learning1.c(38): warning C4716: 'nand_add': 값을 반환해야 합니다.
+  Perceptron_Learning.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\Perceptron_Learning\Debug\Perceptron_Learning.exe

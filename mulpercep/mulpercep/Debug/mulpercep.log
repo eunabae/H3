@@ -1,0 +1,7 @@
+﻿  doughnut.c
+  xorper.c
+c:\users\dmsdk\documents\visual studio 2017\projects\mulpercep\mulpercep\xorper.c(35): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\mulpercep\mulpercep\xorper.c(89): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\mulpercep\mulpercep\xorper.c(132): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  mulpercep.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\mulpercep\Debug\mulpercep.exe
